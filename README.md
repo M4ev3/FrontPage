@@ -23,7 +23,7 @@
  <b>Name:</b> Maeve
 </li>
 <li>
- <b>About me... and stuff:</b> Im an introvert girl but not of the boring type, i hope. I have 20yo and i have ADHD so that's why this will be left alone for long time periods. I live in Brazil in a big piece of nowhere land. That's about it.
+ <b>About me... and stuff:</b> Im an introvert girl but not of the boring type, i hope. I have 20yo and ADHD so that's why this will be left alone for long time periods. I live in Brazil in a big piece of nowhere land. That's about it.
 </li>
 <li>
 <b>Loves:</b> Games, REALLY niche art, music(duh) and coffee
