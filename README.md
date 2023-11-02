@@ -43,7 +43,7 @@
 <br><br><br>
 </div>
 <div>
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<h2 align="center">            ~ 📇 𝑲𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 📇 ~</h2>
  <br>
 <p>
   <div align="center">
@@ -58,7 +58,7 @@
   <br><br><br>
 </p>
 <br>
-<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+<h2 align="center">           📝 ~ 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝒎𝒆 ~ 📝</h2>
   <div align="center">
 <img src="https://i.pinimg.com/564x/e7/74/71/e77471a9e66a9dbd62f3992d5385ba8a.jpg" align="right"  height="208.5px">
   </div>
@@ -69,7 +69,7 @@ That's all!</p>
 </div>
 <br>
 <div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<h2 align="center">💖 ~ 𝑻𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝒓𝒆𝒂𝒅𝒊𝒏𝒈! ~ 💖</h2>
 <div align="center">
 <!--<img src=""> -->
 </div>
