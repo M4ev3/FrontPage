@@ -65,7 +65,7 @@
 <br>
 <p align="center"> Yeah so... Discord and Twitter?<br>
 That's all!</p>
-<p align="center">https://twitter.com/M4ave_ <br> https://open.spotify.com/user/trojan-brasil</p>
+<p align="center">https://twitter.com/M4ave_ <br> Discord: m4ah__</p>
 </div>
 <br>
 <div>
