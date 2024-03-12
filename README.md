@@ -54,7 +54,7 @@
   <br>
 <p align="center">
   <br><br><br>
-  I know C, C++, C#, Python, Java and Java Script (Currently learning PHP). And also know how to use Cypress. I'm studying Blender and Unity. I have worked as QA so i know how to do that with softwares. Besides that, people always told me i'm good at creating stuff.
+  I know C, C++, C#, Python, Java and Java Script (Currently learning PHP). And also know how to use Cypress. I'm studying Blender and Godot. I have worked as QA so i know how to do that with softwares. Besides that, people always told me i'm good at creating stuff.
   <br><br><br>
 </p>
 <br>
